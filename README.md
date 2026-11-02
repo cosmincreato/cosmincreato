@@ -1,1 +1,3 @@
-<img src="koi/koi.gif" width="256" alt="koi" />
+<p align="center">
+    <img src="koi/koi.gif" width="256" alt="koi"/>
+</p>
